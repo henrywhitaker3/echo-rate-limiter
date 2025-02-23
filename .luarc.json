@@ -1,0 +1,4 @@
+{
+  "diagnostics.globals": ["redis", "KEYS", "ARGV"],
+  "diagnostics.disable": ["different-requires", "missing-fields"]
+}
