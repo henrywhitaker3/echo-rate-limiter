@@ -3,7 +3,7 @@ module github.com/henrywhitaker3/echo-rate-limiter
 go 1.24.0
 
 require (
-	github.com/docker/go-connections v0.5.0
+	github.com/docker/go-connections v0.6.0
 	github.com/labstack/echo/v4 v4.13.3
 	github.com/redis/rueidis v1.0.55
 	github.com/stretchr/testify v1.11.0
