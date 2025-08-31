@@ -6,7 +6,7 @@ require (
 	github.com/docker/go-connections v0.6.0
 	github.com/labstack/echo/v4 v4.13.3
 	github.com/redis/rueidis v1.0.55
-	github.com/stretchr/testify v1.11.0
+	github.com/stretchr/testify v1.11.1
 	github.com/testcontainers/testcontainers-go v0.38.0
 	golang.org/x/time v0.12.0
 )
