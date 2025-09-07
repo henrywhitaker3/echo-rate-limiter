@@ -8,7 +8,7 @@ require (
 	github.com/redis/rueidis v1.0.64
 	github.com/stretchr/testify v1.11.1
 	github.com/testcontainers/testcontainers-go v0.38.0
-	golang.org/x/time v0.12.0
+	golang.org/x/time v0.13.0
 )
 
 require (
