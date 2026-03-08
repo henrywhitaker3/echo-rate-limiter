@@ -1,6 +1,6 @@
 module github.com/henrywhitaker3/echo-rate-limiter
 
-go 1.24.0
+go 1.25.0
 
 require (
 	github.com/docker/go-connections v0.6.0
@@ -8,7 +8,7 @@ require (
 	github.com/redis/rueidis v1.0.64
 	github.com/stretchr/testify v1.11.1
 	github.com/testcontainers/testcontainers-go v0.38.0
-	golang.org/x/time v0.12.0
+	golang.org/x/time v0.15.0
 )
 
 require (
